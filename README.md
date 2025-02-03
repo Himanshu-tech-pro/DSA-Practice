@@ -21,26 +21,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
@@ -61,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Math
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
