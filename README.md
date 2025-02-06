@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0189-rotate-array) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
