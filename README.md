@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0164-maximum-gap) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
