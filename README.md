@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0189-rotate-array) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0164-maximum-gap) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
