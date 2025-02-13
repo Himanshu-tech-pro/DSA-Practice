@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0397-integer-replacement](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0397-integer-replacement) |
 ## Union Find
 |  |
 | ------- |
@@ -137,4 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0397-integer-replacement](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0397-integer-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
