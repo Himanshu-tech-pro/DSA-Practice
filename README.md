@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0567-permutation-in-string](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
