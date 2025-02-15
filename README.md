@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0567-permutation-in-string](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
