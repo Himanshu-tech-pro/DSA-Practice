@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0658-find-k-closest-elements) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0397-integer-replacement) |
 ## Union Find
 |  |
