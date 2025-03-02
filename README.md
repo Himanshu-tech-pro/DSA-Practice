@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0274-h-index) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0658-find-k-closest-elements) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
