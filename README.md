@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0383-ransom-note) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0202-happy-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0567-permutation-in-string) |
