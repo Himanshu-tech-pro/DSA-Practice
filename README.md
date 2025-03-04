@@ -193,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 ## Counting Sort
 |  |
