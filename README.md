@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0137-single-number-ii) |
 | [0397-integer-replacement](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
