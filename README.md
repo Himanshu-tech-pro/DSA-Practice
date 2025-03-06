@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0202-happy-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
