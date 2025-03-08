@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0137-single-number-ii) |
 | [0397-integer-replacement](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0397-integer-replacement) |
 ## Memoization
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0274-h-index) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
