@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [2447-merge-similar-items](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/2447-merge-similar-items) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2447-merge-similar-items](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/2447-merge-similar-items) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2447-merge-similar-items](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/2447-merge-similar-items) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/2447-merge-similar-items) |
 <!---LeetCode Topics End-->
