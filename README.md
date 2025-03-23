@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0443-string-compression) |
