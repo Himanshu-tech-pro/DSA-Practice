@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0561-array-partition) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0658-find-k-closest-elements) |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0658-find-k-closest-elements) |
@@ -116,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Trie
 |  |
@@ -125,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## Binary Search
