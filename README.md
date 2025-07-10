@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/2447-merge-similar-items) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
