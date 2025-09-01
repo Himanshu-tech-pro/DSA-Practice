@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [3194-find-words-containing-character](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/3194-find-words-containing-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2447-merge-similar-items](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/2447-merge-similar-items) |
+| [3194-find-words-containing-character](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/3194-find-words-containing-character) |
 ## Divide and Conquer
 |  |
 | ------- |
