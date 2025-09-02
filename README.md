@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0202-happy-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1014-k-closest-points-to-origin) |
+| [2383-add-two-integers](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/2383-add-two-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Geometry
 |  |
