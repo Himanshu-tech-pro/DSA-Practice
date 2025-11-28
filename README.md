@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1153-product-sales-analysis-i) |
+| [1393-capital-gainloss](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1393-capital-gainloss) |
 | [1837-daily-leads-and-partners](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Himanshu-tech-pro/DSA-Practice/tree/master/1908-recyclable-and-low-fat-products) |
